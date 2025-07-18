@@ -3,8 +3,6 @@ layout: home
 title: Na Lógica – Curso de Programação
 ---
 
-# Na Lógica
-
 Aprenda programação do zero com aulas individuais, práticas e online.  
 Você receberá acompanhamento real desde os primeiros comandos até a publicação de um projeto na web.
 
