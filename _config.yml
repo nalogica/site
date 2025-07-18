@@ -1,0 +1,20 @@
+title: Na Lógica
+description: Curso de programação do zero com projeto publicado
+author: Caio Sanchez Christino
+theme: minima
+
+# Navegador
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+collections:
+  pages:
+    output: true
+
+minima:
+  social_links:
+    - platform: github
+      user_url: https://github.com/caiochristino
+    - platform: instagram
+      user_url: https://instagram.com/na.logica.dev
