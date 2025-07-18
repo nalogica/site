@@ -16,7 +16,7 @@ Você receberá acompanhamento real desde os primeiros comandos até a publicaç
 ## 🎁 Aula gratuita
 
 Quer experimentar?  
-👉 [Acesse a amostra gratuita aqui](https://replit.com/@nalogica/calculadora)
+👉 [Acesse a amostra gratuita aqui](https://github.com/nalogica/calculator)
 
 ## 📞 Contato
 
